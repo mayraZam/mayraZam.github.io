@@ -55103,7 +55103,7 @@ O(a,b){var s=null,r=b.a3(t.w).f.a,q=r.a,p=q*0.2,o=t.E
 return A.iH(B.aL,A.a([A.hZ(A.a([new A.b3(B.cZ,A.NB(B.k_,p),s),new A.b3(B.cZ,A.NB(B.k0,p),s),A.jb("Save The Date"),A.c7(A.AH(A.a87("Somos el principio de una historia que no \npretende terminar aunque no lo crean y\ncontra todo pron\xf3stico nos casamos. Asi  \nque, si quieres venir a darte cuenta que\nno es broma, que de verdad estamos\nlocos y que haremos una gran fiesta te\nesperamos, Si vienes avisanos para\nesconder el alcohol."),B.tY),q*0.4,s)],o),B.N,B.bP),A.f4(s,s,B.q,A.az(74,221,201,192),s,s,s,r.b,s,s,s,s,q)],o),B.aG)}}
 A.Fz.prototype={
 O(a,b){var s=null,r=b.a3(t.w).f.a,q=r.b,p=r.a,o=A.Xd(A.AH(A.c7(A.Rc("assets/5.jpg"),s,s),B.c3)),n=A.az(74,221,201,192),m=t.E
-return A.c7(A.iH(B.aL,A.a([o,A.f4(s,A.hZ(A.a([A.dn(A.lJ(A.a([new A.uI(3,A.MX("Mayra & Ivan",s,A.aag(B.ta),s),s)],m),B.N,B.a9,B.aD),s,s),A.c7(s,q*0.15,p),A.hZ(A.a([new A.fX(B.cN,s,s,A.aeo(u.Z,B.tb),s),new A.fX(B.cN,s,s,A.adL(" 10.12.22"),s)],m),B.N,B.a9)],m),B.N,B.a9),B.q,n,s,s,s,q,s,s,s,s,p)],m),B.aG),q,p)}}
+return A.c7(A.iH(B.aL,A.a([o,A.f4(s,A.hZ(A.a([A.dn(A.lJ(A.a([new A.uI(3,A.MX("Mayra & Ivan",s,A.aag(B.ta),s),s)],m),B.N,B.a9,B.aD),s,s),A.c7(s,q*0.15,p),A.hZ(A.a([new A.fX(B.cN,s,s,A.aeo(u.Z,B.tb),s),new A.fX(B.cN,s,s,A.adL(" 12.10.22"),s)],m),B.N,B.a9)],m),B.N,B.a9),B.q,n,s,s,s,q,s,s,s,s,p)],m),B.aG),q,p)}}
 A.Bc.prototype={
 O(a,b){var s,r,q,p,o,n,m,l,k=null,j=t.w,i=b.a3(j).f.a,h=b.a3(j).f.a
 j=h.b
@@ -55119,7 +55119,7 @@ p=A.c7(k,p,k)
 n=t.E
 m=A.lJ(A.a([new A.uI(3,A.MX("Mayra & Ivan",k,A.aag(B.ta),k),k)],n),B.ei,B.a9,B.aD)
 l=A.a5R(B.aT,2.5)
-return A.abw(s,A.aaC(A.a([A.iH(B.aL,A.a([j,o,A.hZ(A.a([p,m,A.dn(A.f4(B.M,A.hZ(A.a([new A.fX(B.cN,k,k,A.aeo(u.Z,B.tb),k),new A.fX(B.cN,k,k,A.adL(" 10.12.22"),k)],n),B.N,B.bP),B.q,k,k,new A.ea(B.aT,k,l,k,k,k,B.aO),k,q*0.45,k,k,k,k,r*0.55),k,k)],n),B.N,B.a9),A.f4(k,k,B.q,A.az(74,221,201,192),k,k,k,q,k,k,k,k,r)],n),B.aG),B.D_,B.yh,B.Cl],n),B.k3))}}
+return A.abw(s,A.aaC(A.a([A.iH(B.aL,A.a([j,o,A.hZ(A.a([p,m,A.dn(A.f4(B.M,A.hZ(A.a([new A.fX(B.cN,k,k,A.aeo(u.Z,B.tb),k),new A.fX(B.cN,k,k,A.adL(" 12.10.22"),k)],n),B.N,B.bP),B.q,k,k,new A.ea(B.aT,k,l,k,k,k,B.aO),k,q*0.45,k,k,k,k,r*0.55),k,k)],n),B.N,B.a9),A.f4(k,k,B.q,A.az(74,221,201,192),k,k,k,q,k,k,k,k,r)],n),B.aG),B.D_,B.yh,B.Cl],n),B.k3))}}
 A.Bo.prototype={
 O(a,b){var s,r,q=null,p=b.a3(t.w).f.a,o=A.jb("Ceremonia"),n=A.a87(u.y),m=p.a,l=m*0.05,k=m*0.18,j=t.E,i=A.lJ(A.a([new A.b3(B.aV,A.c7(A.kW(B.te,new A.RF(),A.jp(q,q,q,q,q,q,q,q,B.i,q,q,B.aT,q,B.b0,q,q,q,q)),l,k),q),new A.b3(B.aV,A.c7(A.kW(B.dU,new A.RG(),A.jp(q,q,q,q,q,q,q,q,B.i,q,q,B.bw,q,B.b0,q,q,q,q)),l,k),q)],j),B.N,B.bP,B.aD),h=A.jb("Fiesta"),g=A.a87(u.S)
 k=A.lJ(A.a([new A.b3(B.aV,A.c7(A.kW(B.dU,new A.RH(),A.jp(q,q,q,q,q,q,q,q,B.i,q,q,B.bw,q,B.b0,q,q,q,q)),l,k),q),new A.b3(B.aV,A.c7(A.kW(B.td,new A.RI(),A.jp(q,q,q,q,q,q,q,q,B.i,q,q,B.aT,q,B.b0,q,q,q,q)),l,k),q)],j),B.N,B.bP,B.aD)
